@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Accept the cookie to track the stuff that the user will do in the website</description>
+   <name>Check the cookie consent if working and clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>663c802b-90a4-4caa-95bf-59ad615b5a40</testCaseGuid>
+</TestCaseEntity>

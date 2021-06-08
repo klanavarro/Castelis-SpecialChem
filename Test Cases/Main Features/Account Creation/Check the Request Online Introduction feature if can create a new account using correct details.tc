@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Request Online Introduction feature if can create a new account using correct details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>853a1346-be4e-42d6-8beb-1fd3656dd8f0</testCaseGuid>
+</TestCaseEntity>

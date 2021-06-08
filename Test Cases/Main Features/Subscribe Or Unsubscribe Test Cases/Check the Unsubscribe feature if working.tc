@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the unsubscription of account feature of the website</description>
+   <name>Check the Unsubscribe feature if working</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2abdd58-9594-46ab-9656-2556f36cb338</testCaseGuid>
+</TestCaseEntity>

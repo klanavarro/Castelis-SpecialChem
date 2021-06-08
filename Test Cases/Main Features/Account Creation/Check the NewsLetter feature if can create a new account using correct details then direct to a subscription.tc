@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the NewsLetter feature if can create a new account using correct details then direct to a subscription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75a6f2c9-1fba-4da8-b689-8a633fb81d5a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the website https://business.specialchem.com/</description>
+   <name>Check the Site search feature if working and return a correct match for the search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa76868e-8a97-4778-85dd-bee0a6e57d98</testCaseGuid>
+</TestCaseEntity>

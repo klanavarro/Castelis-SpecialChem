@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Adhesive URL</description>
+      <initValue>'https://adhesives.uat.specialchem.com/'</initValue>
+      <name>adhesiveURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Coatings URL</description>
+      <initValue>'https://coatings.uat.specialchem.com/'</initValue>
+      <name>coatingsURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Cosmetics URL</description>
+      <initValue>'https://cosmetics.uat.specialchem.com/'</initValue>
+      <name>cosmeticsURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Polymer-Additives URL</description>
+      <initValue>'https://polymer-additives.uat.specialchem.com/'</initValue>
+      <name>polymerAdditives</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Omnexus URL</description>
+      <initValue>'https://omnexus.uat.specialchem.com/'</initValue>
+      <name>omnexusURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Username 0</description>
+      <initValue>'qa.castelis.test@yopmail.com'</initValue>
+      <name>username0</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password</description>
+      <initValue>'Asdf1234*'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Forget Password for Polymer-Additives URL</description>
+      <initValue>'https://polymer-additives.uat.specialchem.com/reset-password?user=2DLJh2i3Fnffud6yk4Kfal/AQ2hOd3lR45n1KO2+lSbE98cJw0hFRY4v9IFhwDxQvnGvgF6K3LAcagSLJOqasA=='</initValue>
+      <name>forgetPasswordPolymerAdditivesURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

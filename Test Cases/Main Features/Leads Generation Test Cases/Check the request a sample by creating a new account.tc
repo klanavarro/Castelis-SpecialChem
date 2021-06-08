@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the request a sample by creating a new account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a81e316e-1a42-404e-aabd-4942cedd6309</testCaseGuid>
+</TestCaseEntity>

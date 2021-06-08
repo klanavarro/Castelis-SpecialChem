@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Channel Registration feature if can create a new account using correct details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9af31f85-daa5-4f16-8b11-1238b3afeaf6</testCaseGuid>
+</TestCaseEntity>

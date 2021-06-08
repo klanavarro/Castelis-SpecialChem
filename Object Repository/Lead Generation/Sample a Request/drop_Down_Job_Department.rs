@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>drop_Down_Job_Department</name>
+   <tag></tag>
+   <elementGuidId>1e9b4c78-53a1-48f7-afe5-ac74cf4771ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/div[2]/form[1]/div[3]/div[1]/div[3]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[2]/select[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

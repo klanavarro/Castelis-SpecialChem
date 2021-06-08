@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_request</name>
+   <tag></tag>
+   <elementGuidId>ad44ecc1-fd84-4ac2-852d-c58b99f89f4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl06_content_1_bodycontent_1_twoleftcol_0_form_6F50949906574A72B3B38D4143E75978_field_B0EBA89740E84139A6FA3BD94C04AC4D']/div[2]/div/a/div/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chosen-container.chosen-container-single.chosen-container-single-nosearch.chosen-with-drop.chosen-container-active > a.chosen-single.chosen-default > div > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl06_content_1_bodycontent_1_twoleftcol_0_form_6F50949906574A72B3B38D4143E75978_field_B0EBA89740E84139A6FA3BD94C04AC4D&quot;)/div[@class=&quot;w_55prct aleft right&quot;]/div[@class=&quot;chosen-container chosen-container-single chosen-container-single-nosearch chosen-with-drop chosen-container-active&quot;]/a[@class=&quot;chosen-single chosen-default&quot;]/div[1]/b[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl06_content_1_bodycontent_1_twoleftcol_0_form_6F50949906574A72B3B38D4143E75978_field_B0EBA89740E84139A6FA3BD94C04AC4D']/div[2]/div/a/div/b</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[6]/div[2]/div/a/div/b</value>
+   </webElementXpaths>
+</WebElementEntity>

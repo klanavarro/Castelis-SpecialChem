@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Monomers (7706  found)</name>
+   <tag></tag>
+   <elementGuidId>8d1cc8be-bcc3-4c77-90e7-992278c0a407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Monomers']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Monomers</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value> /Ajax/UniversalSelectorFiltersPopin?facet={CD675AE7-E755-4E9E-98C3-334B3BBF2B18}&amp;val=Monomers&amp;count=7,706&amp;url=https%3a%2f%2fcoatings.uat.specialchem.com%2f&amp;target={6D33B111-0B0C-42AF-BC95-A4EEF0B91750}&amp;actualQuery=KChfbGFuZ3VhZ2U6KGVuKSBBTkQgKF9wYXRoOihlYjBlN2ExMTI0M2E0YjE2OTAyY2VlOWU5ZDFhMGM0NSkgT1IgX3BhdGg6KGViMGU3YTExMjQzYTRiMTY5MDJjZWU5ZTlkMWEwYzQ1KSkpIEFORCBfdGVtcGxhdGU6KDliMDRlYzg1OGZmZjQ5ODZiY2Q0NDIwNWE5Mzc0ZmI2KSk=&amp;extraQuery= </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c0 bgc9 rounded5 txtcenter homebt small-w100 filtercategory colorbox  cboxElement</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Monomers</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Monomers (7 706  found)
+                </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Monomers&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='Monomers']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productSearch']/div/div[2]/div[4]/div/div/div[2]/a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Monomers (7 706  found)')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other criteria'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, ' /Ajax/UniversalSelectorFiltersPopin?facet={CD675AE7-E755-4E9E-98C3-334B3BBF2B18}&amp;val=Monomers&amp;count=7,706&amp;url=https%3a%2f%2fcoatings.uat.specialchem.com%2f&amp;target={6D33B111-0B0C-42AF-BC95-A4EEF0B91750}&amp;actualQuery=KChfbGFuZ3VhZ2U6KGVuKSBBTkQgKF9wYXRoOihlYjBlN2ExMTI0M2E0YjE2OTAyY2VlOWU5ZDFhMGM0NSkgT1IgX3BhdGg6KGViMGU3YTExMjQzYTRiMTY5MDJjZWU5ZTlkMWEwYzQ1KSkpIEFORCBfdGVtcGxhdGU6KDliMDRlYzg1OGZmZjQ5ODZiY2Q0NDIwNWE5Mzc0ZmI2KSk=&amp;extraQuery= ')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the login feature in Coatings URL</description>
+   <name>Check the Registration feature entering no details (error messages)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba5a6255-01d8-4862-a191-c957213113ad</testCaseGuid>
+</TestCaseEntity>

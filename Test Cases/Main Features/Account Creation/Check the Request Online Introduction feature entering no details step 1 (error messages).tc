@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Request Online Introduction feature entering no details step 1 (error messages)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46f9f3a9-da8a-4c0d-bd7d-aae24f98511e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Selector search - Property search feature if working and return a correct match for the result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd12db7a-2721-434d-85cc-595555774679</testCaseGuid>
+</TestCaseEntity>

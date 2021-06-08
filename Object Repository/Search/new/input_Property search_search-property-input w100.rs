@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Property search_search-property-input w100</name>
+   <tag></tag>
+   <elementGuidId>480cc14a-badd-41d1-8bde-17453227f810</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> search-property-input w100 </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popin-url</name>
+      <type>Main</type>
+      <value>/Ajax/UniversalSelectorFiltersPopin?facet={653F89C8-1F12-43F4-BB9A-14B7FC6EB2F0}&amp;val=&amp;count=&amp;url=https%3a%2f%2fomnexus.uat.specialchem.com%2f&amp;actualQuery=KChfbGFuZ3VhZ2U6KGVuKSBBTkQgKF9wYXRoOihjOTNhYzI3MGVlZjc0YzNlYjkzMTRlOTk5N2MyYzYyNikgT1IgX3BhdGg6KGM5M2FjMjcwZWVmNzRjM2ViOTMxNGU5OTk3YzJjNjI2KSkpIEFORCAoX3RlbXBsYXRlOig1MDVhN2E5NTFlNzY0MzE0YTIyMWZiZjU5ZjdmYmM3ZSkgT1IgX3RlbXBsYXRlOihlYjAwMjgyZjY2NjY0YjBlYTMyODM4MjE0NjA5MmYwMikpKQ==&amp;extraQuery=&amp;cmpwith=&amp;tgtitem=</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select property</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productSearch&quot;)/div[@class=&quot;bc1 bw2&quot;]/div[@class=&quot;search_hp&quot;]/div[@class=&quot;w100&quot;]/div[@class=&quot;form-group w100 center mt10&quot;]/div[@class=&quot;mb30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;property_form&quot;]/div[@class=&quot;zone1&quot;]/div[@class=&quot;box_input_icon-right  w100 mb10&quot;]/input[@class=&quot;search-property-input w100&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productSearch']/div/div[2]/div[6]/div[2]/div/div/div/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_content_0form_Password</name>
+   <tag></tag>
+   <elementGuidId>4144ff1f-3686-466e-bcf6-e110a985326b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='content_0_form_DA775C65CD1340B48DD2C4124C714B4B_field_8F8CC028F54E4AA5AA29CB04DE43ACC6']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

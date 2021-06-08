@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>drop_Down_Country</name>
+   <tag></tag>
+   <elementGuidId>508f7b92-8377-403c-ab7b-ef337b571495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/div[2]/form[1]/div[3]/div[1]/div[3]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[2]/select[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

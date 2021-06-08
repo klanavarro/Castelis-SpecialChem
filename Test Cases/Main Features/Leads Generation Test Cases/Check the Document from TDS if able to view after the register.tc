@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Document from TDS if able to view after the register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>765e81df-d241-43ed-8eca-993d515cf625</testCaseGuid>
+</TestCaseEntity>

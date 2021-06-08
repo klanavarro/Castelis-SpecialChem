@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Selector if able to register a new account using correct details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9b779f8-f6f4-41a0-9aa4-ad07b58ce888</testCaseGuid>
+</TestCaseEntity>

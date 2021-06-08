@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Tech Document feature entering no details (error messages)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a01d379c-6839-4323-8cba-4865e0f96c64</testCaseGuid>
+</TestCaseEntity>

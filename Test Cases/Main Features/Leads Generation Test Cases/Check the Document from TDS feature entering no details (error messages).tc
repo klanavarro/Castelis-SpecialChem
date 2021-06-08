@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Document from TDS feature entering no details (error messages)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecbec00a-2b5c-4698-9138-659f4882cc41</testCaseGuid>
+</TestCaseEntity>

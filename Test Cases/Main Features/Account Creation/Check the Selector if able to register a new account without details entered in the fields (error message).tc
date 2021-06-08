@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Selector if able to register a new account without details entered in the fields (error message)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8486fc15-c0c6-459b-9fcd-1de8ebbb3b9d</testCaseGuid>
+</TestCaseEntity>

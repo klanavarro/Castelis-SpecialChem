@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Webinar if able to register a new account without details entered in the fields (error message)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7595a9dc-c867-4d8a-b8e8-e4c26069cf8d</testCaseGuid>
+</TestCaseEntity>

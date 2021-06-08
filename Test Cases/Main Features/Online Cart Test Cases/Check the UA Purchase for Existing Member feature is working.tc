@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the UA Purchase for Existing Member feature is working</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4a50060-5712-4f1d-8794-299b727a2ec9</testCaseGuid>
+</TestCaseEntity>

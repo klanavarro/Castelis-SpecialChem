@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Channel Registration feature entering no details (error messages)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7bb74e28-34ba-4ad7-8591-bee5d5088118</testCaseGuid>
+</TestCaseEntity>

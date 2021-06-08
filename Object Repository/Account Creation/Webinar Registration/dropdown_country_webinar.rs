@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_country_webinar</name>
+   <tag></tag>
+   <elementGuidId>043f5781-ee4e-49ec-a6ef-03286101991f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ctl06_content_1_bodycontent_1_twoleftcol_0_webinarform_0_form_07809FBC0CE745358D5A425E98BECE24_field_5E4238EBF0C24B7AA7EA66B98236306B&quot;]/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1620950959228</value>
+   </webElementProperties>
+</WebElementEntity>

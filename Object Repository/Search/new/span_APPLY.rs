@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_APPLY</name>
+   <tag></tag>
+   <elementGuidId>c454aedc-339b-40df-b0d1-3d06ed0bfcbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[2]/div/div/div[3]/div/aside/div/div[2]/ul/li/div[2]/div[4]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.c0.col.vam.fs14.txtcenter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c0 col vam fs14 txtcenter</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPLY</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row row_tds_product_datasheet2&quot;]/div[@class=&quot;col col1 v2&quot;]/div[@class=&quot;box_with_border&quot;]/div[@class=&quot;v2&quot;]/div[@class=&quot;row product-selector&quot;]/aside[@class=&quot;search-components v2 col  small-hidden  bgc11  zone1&quot;]/div[@class=&quot;filter closed active_filter&quot;]/div[@class=&quot;pl10 pr10 w100&quot;]/ul[@class=&quot;pa0 ma0 lsn filtres_actifs&quot;]/li[@class=&quot;filtres_actifsLi mode_write&quot;]/div[@class=&quot;ma0 mt10 write&quot;]/div[@class=&quot;row tla mb10&quot;]/div[@class=&quot;col vam&quot;]/a[@class=&quot;apply right row h36p w150p bgc10 tdn rounded5 bt-search a-filter-apply&quot;]/span[@class=&quot;c0 col vam fs14 txtcenter&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/div/div/div[3]/div/aside/div/div[2]/ul/li/div[2]/div[4]/div[2]/a/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kg/cm³'])[2]/following::span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLEAR ALL'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>

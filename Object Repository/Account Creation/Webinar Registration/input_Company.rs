@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Company</name>
+   <tag></tag>
+   <elementGuidId>097540d0-d4e5-41ee-a1cb-17044bd78270</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='ctl06_content_1_bodycontent_1_twoleftcol_0_webinarform_0_form_509CF79E50264F8B8A209D47871134E4_field_E1C795687F564EFDB2FE5193B4CD2033']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

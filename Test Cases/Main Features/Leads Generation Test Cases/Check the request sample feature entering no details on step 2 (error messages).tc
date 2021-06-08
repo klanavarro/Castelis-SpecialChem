@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the request sample feature entering no details on step 2 (error messages)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77459628-673c-40df-a919-0a33ba1072b8</testCaseGuid>
+</TestCaseEntity>

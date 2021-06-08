@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ingredients (47739  found)</name>
+   <tag></tag>
+   <elementGuidId>9bee2af5-8014-458d-bead-932f4f2dc5d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Ingredients']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Ingredients</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value> /Ajax/UniversalSelectorFiltersPopin?facet={CD675AE7-E755-4E9E-98C3-334B3BBF2B18}&amp;val=Ingredients&amp;count=47,739&amp;url=https%3a%2f%2fcosmetics.uat.specialchem.com%2f&amp;target={6D33B111-0B0C-42AF-BC95-A4EEF0B91750}&amp;actualQuery=KChfbGFuZ3VhZ2U6KGVuKSBBTkQgKF9wYXRoOigyMjUwZWM2NzIwNmE0ZGUzYjQ2ODE3NjlmMGMzYTcyMSkgT1IgX3BhdGg6KDIyNTBlYzY3MjA2YTRkZTNiNDY4MTc2OWYwYzNhNzIxKSkpIEFORCBfdGVtcGxhdGU6KDlmMjlhMDQzYmY5YzQ1NDJhNGI1YWMwNTFmMWFiNjVlKSk=&amp;extraQuery= </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c0 bgc9 rounded5 txtcenter homebt small-w100 filtercategory colorbox  cboxElement</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Ingredients</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Ingredients (47 739  found)
+                </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Ingredients&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='Ingredients']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productSearch']/div/div[2]/div[4]/div/div/div[2]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ingredients (47 739  found)')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='By category'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multicriteria search'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other criteria'])[1]/preceding::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, ' /Ajax/UniversalSelectorFiltersPopin?facet={CD675AE7-E755-4E9E-98C3-334B3BBF2B18}&amp;val=Ingredients&amp;count=47,739&amp;url=https%3a%2f%2fcosmetics.uat.specialchem.com%2f&amp;target={6D33B111-0B0C-42AF-BC95-A4EEF0B91750}&amp;actualQuery=KChfbGFuZ3VhZ2U6KGVuKSBBTkQgKF9wYXRoOigyMjUwZWM2NzIwNmE0ZGUzYjQ2ODE3NjlmMGMzYTcyMSkgT1IgX3BhdGg6KDIyNTBlYzY3MjA2YTRkZTNiNDY4MTc2OWYwYzNhNzIxKSkpIEFORCBfdGVtcGxhdGU6KDlmMjlhMDQzYmY5YzQ1NDJhNGI1YWMwNTFmMWFiNjVlKSk=&amp;extraQuery= ')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/a</value>
+   </webElementXpaths>
+</WebElementEntity>
